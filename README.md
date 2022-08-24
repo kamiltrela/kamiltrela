@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I'm currently reading [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
 
 ### How to reach me
-[Linkedin](https://www.linkedin.com/in/kamil-trela/)
+<a href="https://www.linkedin.com/in/kamil-trela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamil-trela" height="30" width="40" /></a>
 
 ### Programming Languages and Tools 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
