@@ -8,10 +8,10 @@
 - 🔭 I’m currently working on finding a new job
 - 🌱 I’m currently learning Python, DevOps, Linux system administration
 - 👯 I’m looking to collaborate on open source projects suitable for beginner programmers
-- ⚡ Fun fact: I'm currently reading [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
+- ⚡ Fun fact: I'm currently reading [Dune by Frank Herbert](https://www.goodreads.com/book/show/44767458-dune)
 
 ### How to reach me
-<a href="https://www.linkedin.com/in/kamil-trela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamil-trela" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamil-trela/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamil-trela" height="30" width="40" /></a>
 
 ### Programming Languages and Tools 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
